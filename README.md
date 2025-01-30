@@ -1,4 +1,4 @@
-## Hi there 👋
+HI WELCOME TO MY SITE STOCK COINS-FX TRADING COMPANY
 
 <!--
 **jennwiemann/jennwiemann** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
